@@ -2,4 +2,4 @@
 ## #12 - Python — Flight Data Live Visualization
 
 You can find the complete walkthrough on Medium.com:
-ENTER LINK
+https://codeanddogs.medium.com/python-flight-data-live-visualization-f53ed959d3d
